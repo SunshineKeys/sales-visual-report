@@ -91,4 +91,41 @@ This project demonstrates the complete data analyst workflow:
 
 ---
 
+## 🚀 How to Run
+
+### Prerequisites
+- Python 3.x
+- pandas
+- matplotlib
+- seaborn
+
+### Installation
+```bash
+# Install required libraries
+pip install pandas matplotlib seaborn
+```
+
+### Usage
+```bash
+# Navigate to project directory
+cd sales-visual-report
+
+# Run the visualization generator
+python portfolio_project.py
+```
+
+### Expected Output
+The script generates:
+- 5 professional chart visualizations (PNG files)
+- Charts include: revenue by region, product performance, time trends, and comparative analysis
+- Written analysis report with strategic insights
+
+### Viewing Results
+- Chart files are saved as PNG images in the project directory
+- Open with any image viewer or import into presentations
+- Analysis report includes data-driven recommendations
+
+### Sample Data
+Uses sales transaction data to demonstrate visualization capabilities and analytical storytelling.
+
 **Built as the capstone project of a self-directed data analyst portfolio sprint. Showcases proficiency in data visualization, business storytelling, and executive communication.**
